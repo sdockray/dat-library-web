@@ -1,6 +1,6 @@
 export default {
   title: '',
-  articles: [],
+  description: '',
   isLoading: true,
   isBeaker: Boolean(window.DatArchive),
 }
